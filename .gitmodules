@@ -1,0 +1,3 @@
+[submodule "external/FDTemplateLayoutCell"]
+	path = external/FDTemplateLayoutCell
+	url = git@github.com:drasticactions/UITableView-FDTemplateLayoutCell.git
