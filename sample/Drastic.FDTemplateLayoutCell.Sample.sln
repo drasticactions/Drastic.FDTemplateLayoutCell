@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drastic.FDTemplateLayoutCel
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drastic.FDTemplateLayoutCell.Sample.iOS", "Drastic.FDTemplateLayoutCell.Sample.iOS\Drastic.FDTemplateLayoutCell.Sample.iOS.csproj", "{DD028F77-427E-4237-88F2-4C4DF7320870}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drastic.FDTemplateLayoutCell.Sample.MacCatalyst", "Drastic.FDTemplateLayoutCell.Sample.MacCatalyst\Drastic.FDTemplateLayoutCell.Sample.MacCatalyst.csproj", "{3BE49B6D-9E97-4965-8507-B66093540F4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{DD028F77-427E-4237-88F2-4C4DF7320870}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD028F77-427E-4237-88F2-4C4DF7320870}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD028F77-427E-4237-88F2-4C4DF7320870}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BE49B6D-9E97-4965-8507-B66093540F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BE49B6D-9E97-4965-8507-B66093540F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BE49B6D-9E97-4965-8507-B66093540F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BE49B6D-9E97-4965-8507-B66093540F4B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
